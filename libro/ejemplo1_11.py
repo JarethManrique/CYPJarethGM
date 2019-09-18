@@ -1,0 +1,5 @@
+a=int(input("Escribe el primer numero: "))
+b=int(input("Escribe el segundo numero: "))
+c=int(input("Escribe el tercer numero: "))
+d=int(input("Escribe el cuarto numero: "))
+print(f"{d} {c} {b} {a} ")
